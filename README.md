@@ -6,4 +6,4 @@ _[Web Uygulama Güvenliği ve Hacking Yöntemleri](https://github.com/erhansaygi
 
 > XSS Payload listesine ulaşmak için;
 
-_[XSS Payload Listesi](https://github.com/erhansaygili/WebHacking/blob/master/xss_payload_list.txt)_
+_[XSS Payload Listesi](https://github.com/erhansaygili/WebHacking/blob/master/xss_payload_list)_
